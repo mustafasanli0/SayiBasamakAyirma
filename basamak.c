@@ -1,5 +1,4 @@
-// MUSTAFA SANLI
-// 14253055    
+  
 #include<stdio.h>
 #include <stdlib.h>
 void main()

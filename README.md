@@ -1,13 +1,13 @@
 # SayiBasamakAyirma
 c ile sayiları basamaklara ayırıp kareleri toplamını buluyor
-örnegin;
-Bir Sayi Girin: 125
-Girdiginiz Sayi 125 Islem Basliyor...
-Sonuc: 30
-Sonuc: 9
-Sonuc: 81
-Sonuc: 65
-Sonuc: 61
-Sonuc: 37
-Sonuc: 58
-58 ile dongu basliyor
+<br>örnegin; <br>
+Bir Sayi Girin: 125<br>
+Girdiginiz Sayi 125 Islem Basliyor...<br>
+Sonuc: 30<br>
+Sonuc: 9<br>
+Sonuc: 81<br>
+Sonuc: 65<br>
+Sonuc: 61<br>
+Sonuc: 37<br>
+Sonuc: 58<br>
+58 ile dongu basliyor<br>
